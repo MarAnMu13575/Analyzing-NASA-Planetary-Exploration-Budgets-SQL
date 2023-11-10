@@ -1,8 +1,6 @@
 # Analyzing NASA Planetary Exploration Budgets in SQL
 
-For much of the last 60 years, NASA has been at the forefront of exploring our solar system, conducting numerous planetary exploration missions. As these are expensive science projects, budgeting plays a crucial role in managing public funds effectively.
-
-In this live training, we will analyze the budget data provided by The Planetary Society, which has been cleaned up for analysis.
+For much of the last 60 years, NASA has been at the forefront of exploring our solar system, conducting numerous planetary exploration missions. As these are expensive science projects, budgeting plays a crucial role in managing public funds effectively. We will analyze the budget data provided by The Planetary Society, which has been cleaned up for analysis.
 
 ## Dataset
 
